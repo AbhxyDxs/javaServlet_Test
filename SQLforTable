@@ -1,0 +1,1 @@
+CREATE TABLE trainees (trainee_id INT PRIMARY KEY,name VARCHAR(100),batch VARCHAR(50));

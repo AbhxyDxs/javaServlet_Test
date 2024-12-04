@@ -1,0 +1,10 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.0">
+    <servlet>
+        <servlet-name>TraineeRegistrationServlet</servlet-name>
+        <servlet-class>web.TraineeRegistrationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TraineeRegistrationServlet</servlet-name>
+        <url-pattern>/TraineeRegistrationServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
